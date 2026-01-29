@@ -6,6 +6,6 @@ public class hola {
         System.out.println("¡Saludos desde la clase hola!");
     }
  public void despedida() {
-        System.out.println("¡Adiós desde la clase hola!");
+        System.out.println("¡Adiós desde la clase adios!");
     }
 }
