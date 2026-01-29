@@ -5,9 +5,7 @@ public class hola {
     public void saludo() {
         System.out.println("¡Saludos desde la clase hola!");
     }
-
-    public int sumar(int a, int b) {
-        return a + b;
+ public void despedida() {
+        System.out.println("¡Adiós desde la clase hola!");
     }
-
 }
