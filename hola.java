@@ -6,8 +6,4 @@ public class hola {
         System.out.println("¡Saludos desde la clase hola!");
     }
 
-    public int sumar(int a, int b) {
-        return a + b;
-    }
-
 }
